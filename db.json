@@ -1,0 +1,134 @@
+{
+  "items": [
+    {
+      "id": "i1",
+      "title": "Blue Water Bottle",
+      "description": "Blue steel bottle with LTU logo.",
+      "category": "Accessories",
+      "status": "found",
+      "location": "Library front desk",
+      "reportedAt": "2025-11-10T15:00:00Z",
+      "claimed": true,
+      "tags": [
+        "bottle",
+        "blue",
+        "LTU"
+      ],
+      "imageUrl": "https://via.placeholder.com/600x350?text=Blue+Water+Bottle"
+    },
+    {
+      "id": "i2",
+      "title": "Student ID Card",
+      "description": "ID card found near parking lot. Name partially visible.",
+      "category": "ID Card",
+      "status": "lost",
+      "location": "North Parking Lot",
+      "reportedAt": "2025-11-12T10:30:00Z",
+      "claimed": false,
+      "tags": [
+        "card",
+        "id"
+      ],
+      "imageUrl": "https://via.placeholder.com/600x350?text=Student+ID+Card"
+    },
+    {
+      "id": "i3",
+      "title": "Black Laptop Bag",
+      "description": "15-inch laptop bag with no visible brand.",
+      "category": "Electronics",
+      "status": "found",
+      "location": "Engineering Building - Room 204",
+      "reportedAt": "2025-11-13T09:00:00Z",
+      "claimed": false,
+      "tags": [
+        "bag",
+        "laptop"
+      ],
+      "imageUrl": "https://via.placeholder.com/600x350?text=Black+Laptop+Bag"
+    },
+    {
+      "id": "i4",
+      "title": "AirPods Case",
+      "description": "White AirPods case, no earphones inside.",
+      "category": "Electronics",
+      "status": "lost",
+      "location": "Cafeteria",
+      "reportedAt": "2025-11-14T12:15:00Z",
+      "claimed": false,
+      "tags": [
+        "airpods",
+        "case"
+      ],
+      "imageUrl": "https://via.placeholder.com/600x350?text=AirPods+Case"
+    },
+    {
+      "id": "i5",
+      "title": "Calculator",
+      "description": "Casio scientific calculator, name scribbled at the back.",
+      "category": "Electronics",
+      "status": "found",
+      "location": "Exam Hall B",
+      "reportedAt": "2025-11-14T16:45:00Z",
+      "claimed": false,
+      "tags": [
+        "calculator",
+        "casio"
+      ],
+      "imageUrl": "https://via.placeholder.com/600x350?text=Calculator"
+    },
+    {
+      "id": "i6",
+      "title": "Grey Hoodie",
+      "description": "Grey hoodie with campus logo, medium size.",
+      "category": "Clothing",
+      "status": "lost",
+      "location": "Gym",
+      "reportedAt": "2025-11-15T18:20:00Z",
+      "claimed": false,
+      "tags": [
+        "hoodie",
+        "grey"
+      ],
+      "imageUrl": "https://via.placeholder.com/600x350?text=Grey+Hoodie"
+    }
+  ],
+  "interests": [
+    {
+      "id": "int1",
+      "itemId": "i1",
+      "userId": "u1",
+      "status": "interested"
+    },
+    {
+      "id": "168c",
+      "itemId": "i1",
+      "userId": "u1",
+      "status": "interested"
+    },
+    {
+      "id": "75f8",
+      "itemId": "i1",
+      "userId": "u1",
+      "status": "interested"
+    },
+    {
+      "id": "86bc",
+      "itemId": "i1",
+      "userId": "u1",
+      "status": "interested"
+    },
+    {
+      "id": "70ee",
+      "itemId": "i1",
+      "userId": "u1",
+      "status": "interested"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Demo User",
+      "email": "demo@example.edu"
+    }
+  ]
+}
